@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ab8f3288b59112847b4f6dbfc9bda6d0
+timeCreated: 1681894648
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gold Grater
+  fontNames:
+  - Gold Grater
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
