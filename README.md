@@ -4,9 +4,9 @@ Projects kura ievaros apgūsim UI veidošanu un darbošanos ar tiem, tēma MR Be
 ![mr-bean-gun](https://user-images.githubusercontent.com/129828603/232996459-bd7df412-cd7c-4e31-9095-bd4f779d543d.gif)
 
 ## Veicamo darbu saraksts:
-- [ ] Input field lietojums
-- [ ] Text elementa lietojums
-- [ ] Button elementa lietojums
+- [x] Input field lietojums
+- [x] Text elementa lietojums
+- [x] Button elementa lietojums
 - [ ] Image elementa lietojums
 - [ ] C# skriptu izveide un piesaiste objektam
 - [ ] Toggle elementu lietojums
